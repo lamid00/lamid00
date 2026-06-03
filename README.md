@@ -1,5 +1,3 @@
-
-
 ## Hi there 👋
 
 <div align="center">
@@ -44,6 +42,9 @@
 ### 📬 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-lamid00-181717?style=flat-square&logo=github)](https://github.com/lamid00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Bello-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-bello-3ab190414)
+[![Instagram](https://img.shields.io/badge/Instagram-umarabbateeii-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/umarabbateeii)
+[![Email](https://img.shields.io/badge/Email-Umarabbatukur@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Umarabbatukur@gmail.com)
 
 ---
 
